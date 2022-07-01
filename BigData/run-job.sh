@@ -4,8 +4,8 @@ IP_NAMENODE=192.168.81.124
 HOME_DIR=/home/hadoopuser/
 NAMA_JAR_TUJUAN=finalbigdata-1.0-SNAPSHOT.jar
 PACKAGE_ID=org.example.App
-INPUT_FOLDER=/Mutiara/input
-OUTPUT_FOLDER=/user/hadoopuser/Mutiara/output
+INPUT_FOLDER=/Auzan/input
+OUTPUT_FOLDER=/user/hadoopuser/Auzan/output
 
 clear
 
