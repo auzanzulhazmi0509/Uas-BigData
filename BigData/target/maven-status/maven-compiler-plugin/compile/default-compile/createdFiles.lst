@@ -1,0 +1,3 @@
+org\example\MapperJob.class
+org\example\ReducerJob.class
+org\example\App.class
